@@ -1,8 +1,8 @@
 # 🛰️ Networking Projects
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
-![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/github/license/yourusername/networking-projects)
+![Project Status](https://img.shields.io/badge/Status-Completed-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A collection of Python-based networking projects focused on packet analysis, scanning, and protocol understanding. Ideal for learners and enthusiasts exploring networking and cybersecurity.
 
@@ -13,7 +13,7 @@ A collection of Python-based networking projects focused on packet analysis, sca
 ### 🔎 Project 1: Packet Sniffer Tool
 A tool that captures and analyzes packets on a network interface using raw sockets. It helps users understand how packet-level inspection works and how different protocols behave on a live network.
 
-> ✅ Built using: `socket`, `struct`, and optionally `scapy`  
+> ✅ Built using: `Scapy`
 > ⚠️ Requires root privileges on Linux
 
 ---
@@ -27,7 +27,7 @@ A tool that captures and analyzes packets on a network interface using raw socke
 
 ## 🤝 Contribute With Me
 
-I'm actively working on this project and always open to ideas, improvements, and collaborations.  
+I'm always open to ideas, improvements, and collaborations.  
 If you're passionate about networking or cybersecurity and want to build tools together, feel free to contribute!
 
 You can:
